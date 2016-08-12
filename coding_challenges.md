@@ -3,7 +3,7 @@
 ## Ruby
 **CodeWars**<br>
 Feel free to check out more on codewars, but here are a few preselected options that you have.
-
+ - [Curated String Coding Challenges](https://gist.github.com/jalexy12/37a86ecc417dc1cf63fbc2446bdb0a9e)
  - [Coding Challenge: Check your arrows](http://www.codewars.com/kata/559f860f8c0d6c7784000119/train/ruby)
  - [Coding Challenge: Reverse Digits](http://www.codewars.com/kata/5583090cbe83f4fd8c000051/train/ruby)
  - [Coding Challenge: Dollars and Cents](http://www.codewars.com/kata/55902c5eaa8069a5b4000083/train/ruby)
